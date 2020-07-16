@@ -1,16 +1,42 @@
-### Hi there 👋
+![Jose Zambudio - @zamberjo ](https://pbs.twimg.com/profile_banners/178021944/1574719281/1500x500)
 
-<!--
-**zamberjo/zamberjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there I'm <a href="https://josezambudiobernabeu.com" target="_blank">Zamberjo 👋</a>
 
-Here are some ideas to get you started:
+I'm Jose Zambudio (@Zamberjo), a **software developer**, although I've been working mostly on Odoo (open source ERP). I always enjoy learning and playing with technology, and a passionate about open source.
+<p align="center">
+  <a href="https://twitter.com/zamberjo">
+    <img alt="Twitter Zamberjo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/zamberjo/">
+    <img alt="Linkedin Zamberjo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://t.me/zamberjo">
+    <img alt="Telegram Zamberjo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  </a>
+  <a href="https://www.instagram.com/zamberjo/">
+    <img alt="Instagram Zamberjo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="https://josezambudiobernabeu.com">
+    <img alt="Website Zamberjo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/w3c.svg" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+#### - ✍️ Odoo FullStack developer
+#### - 📚 Learning SvelteJS (Sapper)  <code><img height="20" src="https://github.com/sveltejs.png?s=20"></code>, Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> & Home automation with Homeassistant <code><img height="20" src="https://avatars3.githubusercontent.com/u/23041403?v=4"></code>.
+#### - 🍎 Apple Hater && FanBoi
+#### - 🔍 Seeker of an idea that revolutionizes your life (and makes me rich).
+#### - 👨‍🏭 Clumsy welder, Sonoff FanBoi
+#### - 🍣 I love Japanese food!!! (I accept dinner invitations)
+
+<br/>
+
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=zamberjo&show_icons=true&hide_border=true&title_color=ea4335&icon_color=ea4335)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+<hr/>
+
+<p align="center">
+If you want to know more about me, check out my website <a href="https://josezambudiobernabeu.com" target="_blank">JoseZambudioBernabeu.com</a>
+</p>
