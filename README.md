@@ -30,7 +30,7 @@ I'm Jose Zambudio (@Zamberjo), a **software developer**, although I've been work
 <br/>
 
 #### - ✍️ Odoo FullStack developer
-#### - 📚 Learning SvelteJS (Sapper)  <code><img height="20" src="https://github.com/sveltejs.png?s=20"></code>, Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> & Home automation with Homeassistant <code><img height="20" src="https://avatars3.githubusercontent.com/u/23041403?v=4"></code>.
+#### - 📚 Learning SvelteJS (SvelteKit)  <code><img height="20" src="https://github.com/sveltejs.png?s=20"></code>, Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> & Home automation with Homeassistant <code><img height="20" src="https://avatars3.githubusercontent.com/u/23041403?v=4"></code>.
 #### - 🍎 Apple Hater && FanBoi
 #### - 🔍 Seeker of an idea that revolutionizes your life (and makes me rich).
 #### - 👨‍🏭 Clumsy welder, Sonoff FanBoi
